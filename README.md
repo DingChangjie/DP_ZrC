@@ -1,6 +1,6 @@
 # DP_ZrC
-## The Deep Potential for ZrC radiation damage simulations
-DOI: 
+## Machine-learning based interatomic potential for simulating irradiation damage mechanisms in ZrC
+
 ## LAMMPS Syntax
 ```
 pair_style   deepmd /path/to/the/potential/file
