@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:53751fe864ac0c06275e5fb7014ef8d4f06eb31a42cf0816f8f4ae51782cfc02
-size 431
+# Machine-learning based interatomic potential for simulating irradiation damage mechanisms in ZrC
+frozen_model.pb: The uncompressed (un-tabulated) model with full numerical accuracy
+frozen_model_compressed.pb: The compressed (tabulated) model with lower accuracy but higher efficiency (suitable for cascade simulations)
