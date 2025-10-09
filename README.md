@@ -1,12 +1,3 @@
-# DP_ZrC
-## Machine-learning based interatomic potential for simulating irradiation damage mechanisms in ZrC
-
-## LAMMPS Syntax
-```
-pair_style   deepmd /path/to/the/potential/file
-pair_coeff   * *
-```
-## Contents
-(1) The model-compressed potential suitable for large scale simulations \
-(2) The original (uncompressed) potential with full accuracy \
-The potential file will be released upon the publication of the paper
+version https://git-lfs.github.com/spec/v1
+oid sha256:53751fe864ac0c06275e5fb7014ef8d4f06eb31a42cf0816f8f4ae51782cfc02
+size 431
